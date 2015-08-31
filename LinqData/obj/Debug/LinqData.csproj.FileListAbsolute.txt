@@ -1,0 +1,6 @@
+C:\Users\mkuchtc\Desktop\LinqData\LinqData\bin\Debug\LinqData.exe.config
+C:\Users\mkuchtc\Desktop\LinqData\LinqData\bin\Debug\LinqData.exe
+C:\Users\mkuchtc\Desktop\LinqData\LinqData\bin\Debug\LinqData.pdb
+C:\Users\mkuchtc\Desktop\LinqData\LinqData\obj\Debug\LinqData.csprojResolveAssemblyReference.cache
+C:\Users\mkuchtc\Desktop\LinqData\LinqData\obj\Debug\LinqData.exe
+C:\Users\mkuchtc\Desktop\LinqData\LinqData\obj\Debug\LinqData.pdb
